@@ -1,4 +1,4 @@
-/* Largest number in a user defined number */
+/* Largest number in a user defined array */
 #include <iostream>
 using namespace std;
 
