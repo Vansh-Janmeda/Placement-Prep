@@ -25,6 +25,5 @@ int main()
         }
     }
     cout<<"\nThe second smallest number from the array is: "<<ssm;
-    
     return 0;
 }
